@@ -149,14 +149,16 @@ ul {
   color: var(--color5);
 }
 
-.section3-names {
+.section3names {
   font-style: normal;
   font-weight: 500;
   font-size: 20px;
-  line-height: 24px;
+  line-height: 0.02;
+  letter-spacing: 0.02em;
+  color: var(--color5);
 }
 
-.section3-profecions {
+.section3profecions {
   font-style: normal;
   font-size: 16px;
   line-height: 24px;
@@ -187,4 +189,8 @@ ul {
 
 .hero {
   background-color: var(--color5);
+}
+
+.li-section3 {
+  background-color: #ffffff;
 }

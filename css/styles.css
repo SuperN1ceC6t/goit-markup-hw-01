@@ -249,13 +249,3 @@ li {
 .main-link {
   text-decoration: none;
 }
-
-.portfolio-h2-1 {
-  font-family: "Roboto";
-  font-style: normal;
-  font-weight: 500;
-  font-size: 20px;
-  line-height: 1.2;
-  letter-spacing: 0.02em;
-  color: var(--color5);
-}

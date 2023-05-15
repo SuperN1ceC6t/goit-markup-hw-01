@@ -1,0 +1,137 @@
+body {
+  font-family: "Roboto", "Arias", sans-serif;
+  color: #2e2f42;
+}
+li {
+  list-style-type: none;
+}
+
+ul {
+  padding: 0;
+  margin: 0;
+}
+
+.navigation {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  color: #2e2f42;
+}
+
+.navigation:hover {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  color: #404bbf;
+}
+
+button {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  color: #ffffff;
+  background: #4d5ae5;
+}
+
+button:hover {
+  background: #404bbf;
+  cursor: pointer;
+}
+
+#item-logo {
+  color: #4d5ae5;
+}
+
+.logo {
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 21px;
+  color: #2e2f42;
+}
+
+.mail {
+  font-style: normal;
+  font-size: 16px;
+  line-height: 24px;
+  color: #434455;
+}
+
+.tel {
+  font-style: normal;
+  font-size: 16px;
+  line-height: 24px;
+  color: #434455;
+}
+
+.hero-h1 {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 56px;
+  line-height: 60px;
+  color: #ffffff;
+  background: #2e2f42;
+}
+
+.section1-h3 {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+}
+
+.section1-p {
+  font-style: normal;
+  font-size: 16px;
+  line-height: 24px;
+  color: #434455;
+}
+
+.section2-h2 {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 40px;
+}
+
+.section3-h2 {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 40px;
+}
+
+.section3-names {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+}
+
+.section3-profecions {
+  font-style: normal;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+.footer-p {
+  font-style: normal;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+.section3 {
+  background: #f4f4fd;
+}
+
+.footer {
+  background: #2e2f42;
+}
+
+.footer-logo {
+  color: #f4f4fd;
+}

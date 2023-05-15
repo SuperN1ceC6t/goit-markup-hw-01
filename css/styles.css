@@ -1,3 +1,11 @@
+:root {
+  --color1: #404bbf;
+  --color2: #434455;
+  --color3: #f4f4fd;
+  --color4: #ffffff;
+  --color5: #2e2f42;
+}
+
 body {
   font-family: "Roboto", sans-serif;
   color: #434455;
@@ -28,7 +36,7 @@ ul {
   color: #404bbf;
 }
 
-button {
+.button {
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
@@ -37,17 +45,17 @@ button {
   background: #4d5ae5;
 }
 
-button:hover {
+.button:hover {
   background: #404bbf;
   cursor: pointer;
 }
 
 #item-logo {
-  color: #4d5ae5;
+  color: #f4f4fd;
 }
 
 .item-logo {
-  color: #4d5ae5;
+  var: var(--color2);
 }
 
 .logo {
@@ -58,6 +66,7 @@ button:hover {
   line-height: 1.17;
   color: #2e2f42;
   letter-spacing: 0.03em;
+  text-transform: uppercase;
 }
 
 .mail {

@@ -50,6 +50,18 @@ li {
   cursor: pointer;
 }
 
+.portfolio-button {
+  font-family: "Roboto", sans-serif;
+  letter-spacing: 0.04em;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  color: var(--color6);
+  background: var(--color3);
+  line-height: 1.5;
+  cursor: pointer;
+}
+
 .button:hover {
   background: #404bbf;
 }
@@ -191,7 +203,7 @@ li {
   background-color: var(--color5);
 }
 
-.li-section3 {
+.section3-li {
   background-color: #ffffff;
 }
 
@@ -201,4 +213,14 @@ li {
 
 .addresses {
   list-style: none;
+  text-decoration: none;
+}
+
+.portfolio-h2 {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+  letter-spacing: 0.02em;
 }

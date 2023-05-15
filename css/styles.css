@@ -62,6 +62,16 @@ li {
   cursor: pointer;
 }
 
+.portfolio-button:hover {
+  color: #ffffff;
+  background-color: #404bbf;
+}
+
+.portfolio-button:focus {
+  color: #ffffff;
+  background-color: #404bbf;
+}
+
 .button:hover {
   background: #404bbf;
 }
@@ -223,4 +233,8 @@ li {
   font-size: 20px;
   line-height: 24px;
   letter-spacing: 0.02em;
+}
+
+.main-link {
+  text-decoration: none;
 }

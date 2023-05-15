@@ -16,11 +16,6 @@ li {
   list-style-type: none;
 }
 
-ul {
-  padding: 0;
-  margin: 0;
-}
-
 .navigation {
   font-style: normal;
   font-weight: 500;
@@ -198,4 +193,12 @@ ul {
 
 .li-section3 {
   background-color: #ffffff;
+}
+
+.header-address {
+  font-style: normal;
+}
+
+.addresses {
+  list-style: none;
 }

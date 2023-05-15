@@ -27,14 +27,20 @@ ul {
   font-size: 16px;
   line-height: 24px;
   color: #2e2f42;
+  letter-spacing: 0.02em;
+  text-decoration: none;
 }
 
 .navigation:hover {
-  font-style: normal;
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 24px;
   color: #404bbf;
+}
+
+.navigation:focus {
+  color: #404bbf;
+}
+
+.header-address {
+  font-style: normal;
 }
 
 .button {
@@ -70,18 +76,15 @@ ul {
   text-decoration: none;
 }
 
-.mail {
+.header-address {
   font-style: normal;
-  font-size: 16px;
-  line-height: 24px;
-  color: #434455;
 }
 
-.tel {
-  font-style: normal;
+.address {
   font-size: 16px;
   line-height: 24px;
   color: #434455;
+  letter-spacing: 0.02em;
 }
 
 .hero-h1 {

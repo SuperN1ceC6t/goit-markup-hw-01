@@ -44,12 +44,14 @@ ul {
 }
 
 .button {
+  font-family: "Roboto", sans-serif;
+  letter-spacing: 0.04em;
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
-  line-height: 24px;
   color: #ffffff;
   background: #4d5ae5;
+  line-height: 1.5;
 }
 
 .button:hover {

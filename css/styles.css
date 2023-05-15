@@ -50,11 +50,11 @@ ul {
   cursor: pointer;
 }
 
-#item-logo {
+.item-logo {
   color: #f4f4fd;
 }
 
-.item-logo {
+#item-logo {
   var: var(--color2);
 }
 
@@ -64,7 +64,7 @@ ul {
   font-weight: 800;
   font-size: 18px;
   line-height: 1.17;
-  color: #2e2f42;
+  color: #4d5ae5;
   letter-spacing: 0.03em;
   text-transform: uppercase;
 }

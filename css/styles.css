@@ -233,9 +233,23 @@ li {
   font-size: 20px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: ;
+  color: var(--color5);
+}
+
+.portfolio-p {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0.02em;
+  color: var(--color2);
 }
 
 .main-link {
   text-decoration: none;
+}
+
+.banking-app {
+  line-height: 1.2;
 }

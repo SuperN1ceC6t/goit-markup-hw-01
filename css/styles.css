@@ -55,8 +55,7 @@ ul {
   color: var(--color5);
 }
 
-.logo:link {
-  text-decoration: none;
+.logo {
   font-family: "Raleway", sans-serif;
   font-style: normal;
   font-weight: 800;
@@ -65,6 +64,10 @@ ul {
   color: #4d5ae5;
   letter-spacing: 0.03em;
   text-transform: uppercase;
+}
+
+.logo:link {
+  text-decoration: none;
 }
 
 .mail {

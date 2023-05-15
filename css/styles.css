@@ -142,3 +142,7 @@ button:hover {
 .footer-logo {
   color: #f4f4fd;
 }
+
+.hidden {
+  visibility: hidden;
+}

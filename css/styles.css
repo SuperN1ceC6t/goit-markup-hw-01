@@ -108,6 +108,7 @@ li {
   line-height: 24px;
   color: #434455;
   letter-spacing: 0.02em;
+  text-decoration: none;
 }
 
 .address:hover {
@@ -248,9 +249,5 @@ li {
 }
 
 .main-link {
-  text-decoration: none;
-}
-
-.address-link {
   text-decoration: none;
 }

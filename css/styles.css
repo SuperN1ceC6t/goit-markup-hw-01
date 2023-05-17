@@ -1,9 +1,5 @@
 /* ----------------------------Instrument-------------------------------- */
 
-.hidden {
-  visibility: hidden;
-}
-
 :root {
   --color1: #404bbf;
   --color2: #434455;
@@ -97,6 +93,8 @@ li {
   text-align: center;
   letter-spacing: 0.02em;
 }
+
+.section1-h2 {visibility: hidden;}
 
 .section1-h3 {
   font-style: normal;

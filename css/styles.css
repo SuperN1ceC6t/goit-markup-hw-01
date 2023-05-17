@@ -18,6 +18,8 @@ li {
   list-style-type: none;
 }
 
+.hidden {visibility: hidden;}
+
 /* ----------------------------HEADER-------------------------------- */
 
 .item-logo {
@@ -93,8 +95,6 @@ li {
   text-align: center;
   letter-spacing: 0.02em;
 }
-
-.section1-h2 {visibility: hidden;}
 
 .section1-h3 {
   font-style: normal;

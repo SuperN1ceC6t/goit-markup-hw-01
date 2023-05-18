@@ -86,7 +86,11 @@ li {
 
 /* ----------------------------MAIN-------------------------------- */
 
-.hero-h1 {
+.hero {
+  background-color: var(--color5);
+}
+
+.hero-header {
   font-style: normal;
   font-weight: 700;
   font-size: 56px;
@@ -96,7 +100,7 @@ li {
   letter-spacing: 0.02em;
 }
 
-.section1-h3 {
+.section-header {
   font-style: normal;
   font-weight: 500;
   font-size: 20px;
@@ -105,7 +109,7 @@ li {
   color: var(--color5);
 }
 
-.section1-p {
+.section-paragraph {
   font-style: normal;
   font-size: 16px;
   line-height: 1.5;
@@ -113,7 +117,7 @@ li {
   color: #434455;
 }
 
-.section2-h2 {
+.section-services-header {
   font-style: normal;
   font-weight: 700;
   font-size: 36px;
@@ -123,7 +127,7 @@ li {
   color: var(--color5);
 }
 
-.section3-h2 {
+.section-team-header {
   font-style: normal;
   font-weight: 700;
   font-size: 36px;
@@ -143,21 +147,18 @@ li {
   color: var(--color5);
 }
 
-.section3-profecions {
+.section-profecions {
   font-style: normal;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
 
-.section3 {
+.section-team {
   background: #f4f4fd;
 }
-.hero {
-  background-color: var(--color5);
-}
 
-.section3-li {
+.section-team-li {
   background-color: #ffffff;
 }
 
@@ -228,7 +229,7 @@ li {
 
 /* ----------------------------Portfolio-MAIN-------------------------------- */
 
-.portfolio-h2 {
+.portfolio-header {
   font-family: "Roboto";
   font-style: normal;
   font-weight: 500;
